@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5100a042-eb92-4c01-8d07-42cc3a1248a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/academy/service/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,9 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2YYogTfM7oxhsHGhZ5liBKu9Ztd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,7 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hung1/OneDrive/Desktop/demoProject_04/src/main/webapp/WEB-INF/views&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hung1/Downloads/mailbygmail/mailbygmail&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -204,7 +207,9 @@
       <workItem from="1700711986896" duration="14674000" />
       <workItem from="1700739227259" duration="3221000" />
       <workItem from="1700746646684" duration="2134000" />
-      <workItem from="1700791006939" duration="694000" />
+      <workItem from="1700791006939" duration="11174000" />
+      <workItem from="1700819366333" duration="1447000" />
+      <workItem from="1700833444862" duration="320000" />
     </task>
     <servers />
   </component>
