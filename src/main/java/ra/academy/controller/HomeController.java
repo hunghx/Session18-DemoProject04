@@ -17,4 +17,8 @@ public class HomeController {
         return "index";
 
     }
+    @RequestMapping("/403")
+    public  String _403(){
+        return "403";
+    }
 }

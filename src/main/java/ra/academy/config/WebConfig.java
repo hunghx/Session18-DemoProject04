@@ -137,4 +137,8 @@ public class WebConfig implements WebMvcConfigurer , ApplicationContextAware {
         return mailSender;
     }
 
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+        registry.addInterceptor(new AuthInterceptor()).addPathPatterns("/admin/**");
+    }
 }
