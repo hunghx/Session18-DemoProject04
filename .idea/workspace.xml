@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5100a042-eb92-4c01-8d07-42cc3a1248a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ra/academy/config/AuthInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/403.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/prj_04.-9aWxQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/prj_04.-9aWxQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.zip" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/dfd59d9d-e4ef-495b-b7c3-9d8c33894acd/storage_v2/_src_/schema/quanlydiemthi.CmVoNw.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ra/academy/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/academy/config/WebConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ra/academy/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/academy/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/academy/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/academy/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ra/academy/service/MailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ra/academy/service/MailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +58,10 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YYogTfM7oxhsHGhZ5liBKu9Ztd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,28 +70,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hung1/OneDrive/Desktop/Session18-DemoProject04",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "49cdf2910eef90baa31d4f3e6d97b054",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hung1/OneDrive/Desktop/zalo/JoyTrav/JoyTrav&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;49cdf2910eef90baa31d4f3e6d97b054&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hung1\OneDrive\Desktop\demoProject_04\src\main\webapp\WEB-INF\views" />
@@ -226,7 +226,10 @@
       <workItem from="1700739227259" duration="3221000" />
       <workItem from="1700746646684" duration="2134000" />
       <workItem from="1700791006939" duration="694000" />
-      <workItem from="1701679250187" duration="858000" />
+      <workItem from="1701679250187" duration="1170000" />
+      <workItem from="1701684922353" duration="1207000" />
+      <workItem from="1701702982099" duration="817000" />
+      <workItem from="1701777136885" duration="3939000" />
     </task>
     <servers />
   </component>
@@ -240,11 +243,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/ra/academy/service/account/AccountService.java</url>
           <line>33</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ra/academy/controller/UserController.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ra/academy/service/account/AccountService.java</url>

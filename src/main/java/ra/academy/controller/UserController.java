@@ -1,21 +1,26 @@
 package ra.academy.controller;
 
+import org.apache.commons.lang3.RandomStringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import ra.academy.dto.request.FormLogin;
 import ra.academy.dto.request.FormRegister;
 import ra.academy.model.Account;
+import ra.academy.service.MailService;
 import ra.academy.service.account.IAccountService;
 import ra.academy.validate.FormLoginValidate;
 import ra.academy.validate.FormRegisterValidate;
 
+import javax.mail.MessagingException;
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 
@@ -27,6 +32,8 @@ public class UserController {
     private FormLoginValidate loginValidate;
     @Autowired
     private FormRegisterValidate registerValidate;
+    @Autowired
+    private MailService mailSender;
     @RequestMapping("/form-signin")
     public String login(Model model){
         model.addAttribute("form_login",new FormLogin());
@@ -62,5 +69,12 @@ public class UserController {
         accountService.register(formRegister);
         return "redirect:/form-signin";
     }
+//    @PostMapping("/change-password")
+//    public String changePass(@ModelAttribute Form form) throws MessagingException {
+//        // validate
+//        String code = RandomStringUtils.randomAlphanumeric(10);
+//        mailSender.sendMail("admin@gmail.com","customer@gmail.com","change password",code);
+//        return "confirm-pass";
+//    }
 
 }

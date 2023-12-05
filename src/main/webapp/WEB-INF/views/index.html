@@ -7,8 +7,8 @@
 </head>
 <body>
 <nav th:insert="auth/layout/navbar::navbar"></nav>
-<h1 th:if="${#session.getAttribute('user_login')!=null}" th:text="${session.user_login.fullName}"></h1>
-
+<!--<h1 th:if="${#session.getAttribute('user_login')!=null}" th:text="${session.user_login.fullName}"></h1>-->
+<p th:text="|Bạn vừa truy cập ${count} lần|"></p>
 <th:block th:insert="auth/layout/foot"></th:block>
 </body>
 </html>

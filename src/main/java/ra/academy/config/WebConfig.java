@@ -128,7 +128,7 @@ public class WebConfig implements WebMvcConfigurer , ApplicationContextAware {
         mailSender.setPort(587);  // Use port 465 for SMTPS with SSL
 
         mailSender.setUsername("hunghx@rikkeisoft.com");
-        mailSender.setPassword("nnwcpmhclzxvkysz"); // Replace with your Gmail app password
+        mailSender.setPassword("rmctyiccwzculyqs"); // Replace with your Gmail app password
 
         Properties props = mailSender.getJavaMailProperties();
         props.put("mail.transport.protocol", "smtp");
